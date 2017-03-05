@@ -1,2 +1,2 @@
-# TankBattleGalour
+# TankBattleGalore
 A simple tank battle based on an online course
